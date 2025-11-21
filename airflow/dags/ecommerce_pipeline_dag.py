@@ -52,3 +52,4 @@ with DAG(
     )
 
     ingest >> bronze_to_silver >> silver_to_gold >> load_to_pg >> notify
+    #To check changes
