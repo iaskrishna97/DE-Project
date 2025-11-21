@@ -1,0 +1,4 @@
+git clone https://github.com/yourusername/dockit-astro.git
+cd dockit-astro
+yarn install
+yarn dev

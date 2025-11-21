@@ -1,0 +1,10 @@
+boto3
+botocore
+requests
+pyspark==3.3.2
+psycopg2-binary
+pandas
+apache-airflow==2.8.0
+pytest
+black
+flake8
